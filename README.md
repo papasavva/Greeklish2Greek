@@ -8,9 +8,8 @@ Greeklish (Writing Style), a portmanteau of the words Greek and English, also kn
 Start type in greeklish and automatically you will see to the next box the converted string in greek and vice versa.
 
 ### What technologies are being used?
-Greeklish2Greek is written in PHP using the Codeigniter frame. The frontend is based on Bootstrap and javascript with jQuery.
+Greeklish2Greek is written in PHP using the Codeigniter framework. The frontend is based on Bootstrap and javascript with jQuery.
 
 ### How to use ?
 * Clone project
-* Modify $config['base_url'] in application/config/config.php to match your url
 * Upload and enjoy!
